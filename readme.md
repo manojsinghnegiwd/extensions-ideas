@@ -1,6 +1,8 @@
 # extensions-ideas
 
-* Youtube shorts are not autoscrollable when one short is comepleted user have to scroll to next
+**Youtube shorts autoscroll**
+
+Youtube shorts are not autoscrollable when one short is comepleted user have to scroll to next
 with arrow down button on keyboard or mouse scroll
 
 > https://www.youtube.com/shorts/PyDKdeVyqu8
@@ -21,4 +23,12 @@ User have to copy the link and paste it in that website and then download
 
 we can also add some features like make video faster or slower 1.5x or -1.5x
 
-* Time Tracker: A Chrome extension that tracks how much time you spend on each website, so you can better manage your time and productivity.
+====================
+
+**Time Tracker**
+
+A Chrome extension that tracks how much time you spend on each website, so you can better manage your time and productivity.
+
+@manojsinghnegiwd
+
+====================
