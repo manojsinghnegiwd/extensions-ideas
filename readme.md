@@ -1,5 +1,4 @@
 # extensions-ideas
-=============
 
 * Youtube shorts are not autoscrollable when one short is comepleted user have to scroll to next
 with arrow down button on keyboard or mouse scroll
