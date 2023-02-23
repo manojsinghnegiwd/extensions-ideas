@@ -34,3 +34,12 @@ A Chrome extension that tracks how much time you spend on each website, so you c
 @manojsinghnegiwd
 
 ====================
+
+**Page Summary**
+
+A Chrome extension that summarise the web page article.
+
+@manojsinghnegiwd
+
+
+====================
