@@ -8,7 +8,7 @@ with arrow down button on keyboard or mouse scroll
 
 I guess we can make extension which can autoscroll youtube shorts 
 
-buy the way there is already a extension exists but its UI/UX is not good we can make it better.
+buy the way there is already an extension exists but its UI/UX is not good we can make it better.
 
 > Existing extension
 >> https://chrome.google.com/webstore/detail/auto-youtube-shorts-scrol/elggcfikfbaijgcofcapgeahjaclpfnf
