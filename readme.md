@@ -23,6 +23,8 @@ User have to copy the link and paste it in that website and then download
 
 we can also add some features like make video faster or slower 1.5x or -1.5x
 
+> I found out it's open source https://github.com/Tyson3101/Auto-Youtube-Shorts-Scroller
+
 ====================
 
 **Time Tracker**
